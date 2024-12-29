@@ -1,8 +1,24 @@
-# Halo semua! 
+# Halo semua! 👋
 Perkenalkan nama saya **M. Eka Miharja**.<br>
 
-Saya seorang **Mahasiswa Teknik Informatika dan Komputer** di **Politeknik Negeri Jakarta**.<br>
+Saya seorang Mahasiswa Jurusan Teknik Informatika dan Komputer dan Program Studi Teknik Multimedia dan Jaringan di **Politeknik Negeri Jakarta**.<br>
 
+💻 **Tentang Saya:**<br>
+- 🚀 Sedang mendalami pengembangan web, pemrograman, dan jaringan.<br>
+- 🎓 Tertarik untuk terus belajar dan mengeksplorasi teknologi terbaru dalam dunia IT.<br>
+
+🌟 **Minat Utama:**<br>
+- Web Development
+- C++ Program
+- UI/UX
+
+🎯 **Tujuan Saya:**<br>
+Saya bercita-cita menjadi seorang pengembang wesite yang tidak hanya terampil secara teknis tetapi juga mampu memberikan dampak nyata melalui solusi teknologi yang saya buat. Selain itu, saya ingin terus belajar, berkolaborasi dengan komunitas global, dan berkontribusi dalam menciptakan inovasi yang bermanfaat bagi banyak orang.<br>
+
+✨ **Ayo Terhubung!**<br>
+Jangan ragu untuk mengeksplorasi repositori saya, memberikan saran, atau mengajukan pertanyaan. Saya juga terbuka untuk diskusi dan berbagi pengetahuan.<br>
+
+📫 Hubungi saya melalui **ekamiharja2006@gmail.com.**
 
 ### Bahasa Pemrograman Yang Sedang Dipelajari:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
