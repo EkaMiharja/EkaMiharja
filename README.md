@@ -28,7 +28,7 @@ Jangan ragu untuk mengeksplorasi repositori saya, memberikan saran, atau mengaju
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> </a>
 <br />
 <br />
 ---
