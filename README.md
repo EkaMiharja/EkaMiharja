@@ -1,28 +1,28 @@
-# Halo semua! 👋
-Perkenalkan nama saya **M. Eka Miharja**.<br>
+# Hello everyone! 👋
+Let me introduce myself, my name is **M. Eka Miharja**.<br>
 
-Saya seorang Mahasiswa Jurusan Teknik Informatika dan Komputer dan Program Studi Teknik Multimedia dan Jaringan di **Politeknik Negeri Jakarta**.<br>
+I am a student majoring in Informatics and Computer Engineering, specializing in Multimedia and Network Engineering at **Politeknik Negeri Jakarta**.<br>
 
-💻 **Tentang Saya:**<br>
-- 🚀 Sedang mendalami pengembangan web, pemrograman, dan jaringan.<br>
-- 🎓 Tertarik untuk terus belajar dan mengeksplorasi teknologi terbaru dalam dunia IT.<br>
+💻 **About Me:**<br>
+- 🚀 Currently deepening my knowledge in web development, programming, and networking.<br>
+- 🎓 Interested in continuous learning and exploring the latest technologies in the IT world.<br>
 
-🌟 **Minat Utama:**<br>
+🌟 **Main Interests:**<br>
 - Web Development
 - C++ Program
 - Python Program
 - Java Program
 - UI/UX
 
-🎯 **Tujuan Saya:**<br>
-Saya bercita-cita menjadi seorang pengembang wesite yang tidak hanya terampil secara teknis tetapi juga mampu memberikan dampak nyata melalui solusi teknologi yang saya buat. Selain itu, saya ingin terus belajar, berkolaborasi dengan komunitas global, dan berkontribusi dalam menciptakan inovasi yang bermanfaat bagi banyak orang.<br>
+🎯 **My Goals:**<br>
+I aspire to become a website developer who is not only technically skilled but also capable of making a real impact through the technological solutions I create. Additionally, I want to continue learning, collaborate with the global community, and contribute to creating innovations that benefit many people.<br>
 
-✨ **Ayo Terhubung!**<br>
-Jangan ragu untuk mengeksplorasi repositori saya, memberikan saran, atau mengajukan pertanyaan. Saya juga terbuka untuk diskusi dan berbagi pengetahuan.<br>
+✨ **Let's Connect!**<br>
+Feel free to explore my repositories, provide suggestions, or ask questions. I am also open to discussions and sharing knowledge.<br>
 
-📫 Hubungi saya melalui **ekamiharja2006@gmail.com.**
+📫 Contact me via **ekamiharja2006@gmail.com.**
 
-### Bahasa Pemrograman Yang Sedang Dipelajari:
+### Programming Languages I'm Currently Learning:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
